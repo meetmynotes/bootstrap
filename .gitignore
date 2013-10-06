@@ -2,6 +2,9 @@
 _gh_pages
 _site
 
+# Ignore compiled files
+dist
+
 # Numerous always-ignore extensions
 *.diff
 *.err
